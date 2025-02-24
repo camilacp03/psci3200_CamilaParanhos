@@ -1,0 +1,21 @@
+---
+title: "Research Question + Dataset"
+format: html
+editor: visual
+---
+
+## RQ + Data - Final Project
+
+Camila Paranhos
+
+### **Research Question:**
+
+How does the number of political parties affect voter turnout and other measures of democratic strength in developing representative democracies?
+
+### **Rationale & Datasets:**
+
+The relationship between the number of political parties and voter turnout is a significant question in political science, particularly in developing democracies. Carew Boulding and David S. Brown examine this topic in their study, "Does the number of political parties influence voter turnout in developing democracies?" Their research focuses on Brazil and Bolivia, concluding that differences in electoral systems shape the relationship between party competition and voter turnout. They find that in Bolivia, an increase in the number of parties is strongly associated with higher turnout, while in Brazil, the relationship is weaker and slightly negative. However, their study is limited to only two countries, which constrains the generalizability of their findings.
+
+In my study, I aim to expand the analysis to a larger number of developing democracies, focusing exclusively on representative systems while potentially accounting for country fixed effects. The theoretical foundation behind this research is that a greater number of parties may increase voter turnout by providing more ideological options that align with citizens\' preferences, thereby encouraging participation. However, some scholars argue that an excessive number of parties can dilute ideological clarity and create confusion, potentially discouraging voter engagement.
+
+To examine this relationship, I will use data from the Constituency-Level Elections Archive (CLEA) and Varieties of Democracy (V-Dem). The independent variable will be the number of political parties contesting national elections (from CLEA or V-Dem). The dependent variables will include voter turnout percentage (from CLEA) and additional measures of democratic strength, such as electoral competitiveness and political participation (from V-Dem). Control variables will include electoral system type (proportional representation vs. majoritarian), compulsory voting laws, and political stability. With this study, I aim to investigate party system fragmentation influences democratic engagement in the developing world.
